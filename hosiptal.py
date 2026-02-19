@@ -283,3 +283,4 @@ class Hospital:
 root = Tk()
 ob=Hospital(root)
 root.mainloop()
+#adding new_feature - feature1
