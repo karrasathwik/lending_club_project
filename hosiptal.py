@@ -283,3 +283,4 @@ class Hospital:
 root = Tk()
 ob=Hospital(root)
 root.mainloop()
+#this is for  feature 2 uptodate
