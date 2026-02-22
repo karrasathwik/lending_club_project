@@ -283,6 +283,7 @@ class Hospital:
 root = Tk()
 ob=Hospital(root)
 root.mainloop()
+<<<<<<< HEAD
 #adding new_feature - feature1
         self.hospital_table = ttk.Treeview(Detailframe, 
                                             columns=("NAMES OF TABLET", "Refence No", "Dose", "No of Tablets", "Lot",
@@ -292,3 +293,6 @@ root.mainloop()
                                             xscrollcommand=scroll_x.set, yscrollcommand=scroll_y.set)
         scroll_x.pack(side=BOTTOM,fill=X)
         scroll_y.pack(side=RIGHT,fill=Y) 
+=======
+#adding new_feature - feature1
+>>>>>>> d826cb4fa2d99146147f8eaa186275c514d021a6
