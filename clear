@@ -1,0 +1,32 @@
+[33mcommit 913d8d10ba00631490ac1ed63ac41575b59f9dbf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature1[m[33m)[m
+Author: satkar2026 <karsath2026@gmail.com>
+Date:   Sat Feb 21 22:49:05 2026 +0000
+
+    restore
+
+[33mcommit bde1bd9c0c3f1e0a94cc4012bf248966c47ca901[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6430a9e d826cb4
+Author: karrasathwik <karsath2027@gmail.com>
+Date:   Fri Feb 20 00:01:08 2026 +0000
+
+    Merge pull request #1 from karrasathwik/feature1
+    
+    added newfeatures
+
+[33mcommit d826cb4fa2d99146147f8eaa186275c514d021a6[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: satkar2026 <karsath2026@gmail.com>
+Date:   Thu Feb 19 23:52:53 2026 +0000
+
+    added newfeatures
+
+[33mcommit 6430a9e94b9dcbf4889b968268ded1eb0a669f97[m[33m ([m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m
+Author: satkar2026 <karsath2026@gmail.com>
+Date:   Wed Feb 18 23:44:34 2026 +0000
+
+    addding intial set of file
+
+[33mcommit f18325424c5e4ef039ae424a123fc2caa7ae6dd0[m
+Author: karrasathwik <karsath2027@gmail.com>
+Date:   Wed Feb 18 23:48:48 2026 +0000
+
+    Initial commit
