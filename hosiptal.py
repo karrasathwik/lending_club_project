@@ -296,3 +296,4 @@ root.mainloop()
 =======
 #adding new_feature - feature1
 >>>>>>> d826cb4fa2d99146147f8eaa186275c514d021a6
+#this is deleted and  new
